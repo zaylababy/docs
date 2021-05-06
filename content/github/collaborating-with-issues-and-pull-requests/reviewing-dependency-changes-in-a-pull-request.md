@@ -64,3 +64,4 @@ Dependency review allows you to "shift left". You can use the provided predictiv
    * The version of the dependency in which the vulnerability was fixed. If you are reviewing a pull request for someone, you might ask the contributor to update the dependency to the patched version, or a later release.
 
 {% data reusables.repositories.return-to-source-diff %}
+.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
